@@ -1,0 +1,1015 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5A5BDCBC550FD',
+    participant: undefined
+  },
+  messageTimestamp: 1718925365,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+        '¡Nos alegra mucho tenerte aquí! 😊\n' +
+        'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5BD348C7125A0',
+    participant: undefined
+  },
+  messageTimestamp: 1718925365,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1. Movilidad y transito🚗🚧\n2. Reclamos O Soporte📥'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '1. Movilidad y transito🚗🚧\n2. Reclamos O Soporte📥',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  keyword: 'key_6235cb8a-e373-4813-9da3-c747403ca5ff',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1b083080f36aab2893818a29f7e48995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9497d62a-8711-4eff-9c26-a386383c55bb',
+  keyword: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  answer: ' *Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    ' *-Movilidad y transito*🚗🚧\n' +
+    ' *-Reclamos O Soporte*📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fb7d6cd4fb80abe0a8729afce417a09'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE582454791CB73',
+    participant: undefined
+  },
+  messageTimestamp: 1718925366,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14a45749-88c0-4897-bfe5-26bd5caf7167',
+  keyword: 'key_1ecda5a4-3b08-43d6-a746-40a0843d9860',
+  answer: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '53452990d196afcf199c5d633c29c447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '6AFAF292F5AD48708C11DEB2310564FF',
+    participant: undefined
+  },
+  messageTimestamp: 1718925380,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajajja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Jajajajja',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'B93AF418F5E5EF084E7A50BD9AB19FF4',
+    participant: undefined
+  },
+  messageTimestamp: 1718925382,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'XD',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'XD',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAD6137CD1123B531901EBA0E0474F1',
+    participant: undefined
+  },
+  messageTimestamp: 1718925396,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Jajajaja',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '42B9669AE64D79F2749854B5F6FABCC1',
+    participant: undefined
+  },
+  messageTimestamp: 1718925399,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Atención inmediata',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Atención inmediata',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE54C71C064404E',
+    participant: undefined
+  },
+  messageTimestamp: 1718925410,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+        '¡Nos alegra mucho tenerte aquí! 😊\n' +
+        'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  keyword: 'key_6235cb8a-e373-4813-9da3-c747403ca5ff',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1b083080f36aab2893818a29f7e48995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9497d62a-8711-4eff-9c26-a386383c55bb',
+  keyword: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  answer: ' *Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    ' *-Movilidad y transito*🚗🚧\n' +
+    ' *-Reclamos O Soporte*📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fb7d6cd4fb80abe0a8729afce417a09'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE57B44294FE87A',
+    participant: undefined
+  },
+  messageTimestamp: 1718925414,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14a45749-88c0-4897-bfe5-26bd5caf7167',
+  keyword: 'key_1ecda5a4-3b08-43d6-a746-40a0843d9860',
+  answer: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '53452990d196afcf199c5d633c29c447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '4BDD2A9A89D43AA9795D14DD21923F11',
+    participant: undefined
+  },
+  messageTimestamp: 1718925415,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Hola',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  keyword: 'key_6235cb8a-e373-4813-9da3-c747403ca5ff',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1b083080f36aab2893818a29f7e48995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9497d62a-8711-4eff-9c26-a386383c55bb',
+  keyword: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  answer: ' *Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    ' *-Movilidad y transito*🚗🚧\n' +
+    ' *-Reclamos O Soporte*📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fb7d6cd4fb80abe0a8729afce417a09'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5AB74B6881C65',
+    participant: undefined
+  },
+  messageTimestamp: 1718925415,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+        '¡Nos alegra mucho tenerte aquí! 😊\n' +
+        'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14a45749-88c0-4897-bfe5-26bd5caf7167',
+  keyword: 'key_1ecda5a4-3b08-43d6-a746-40a0843d9860',
+  answer: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '53452990d196afcf199c5d633c29c447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5E3C733E60BEB',
+    participant: undefined
+  },
+  messageTimestamp: 1718925417,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'DEBF7BB7520CB20264EF74CB3F7B874D',
+    participant: undefined
+  },
+  messageTimestamp: 1718925421,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ajjajajjajajajja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Ajjajajjajajajja',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '7B2FAB6F88BA32CA1A545CCDBB18DFF3',
+    participant: undefined
+  },
+  messageTimestamp: 1718925424,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'AJAJJAJAJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'AJAJJAJAJA',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '6CEB1BDA9FB2B010043897980E5FF86E',
+    participant: undefined
+  },
+  messageTimestamp: 1718925447,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Hola',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  keyword: 'key_6235cb8a-e373-4813-9da3-c747403ca5ff',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1b083080f36aab2893818a29f7e48995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9497d62a-8711-4eff-9c26-a386383c55bb',
+  keyword: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  answer: ' *Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    ' *-Movilidad y transito*🚗🚧\n' +
+    ' *-Reclamos O Soporte*📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fb7d6cd4fb80abe0a8729afce417a09'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5B2FA96FA3D07',
+    participant: undefined
+  },
+  messageTimestamp: 1718925448,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+        '¡Nos alegra mucho tenerte aquí! 😊\n' +
+        'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '👋Hola , gracias por comunicarte con Gestión vial ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_14a45749-88c0-4897-bfe5-26bd5caf7167',
+  keyword: 'key_1ecda5a4-3b08-43d6-a746-40a0843d9860',
+  answer: 'Déjanos saber porque no te interesa o si tienes alguna duda o inquietud en la que te podamos colaborar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '53452990d196afcf199c5d633c29c447'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE5AF8ED8B9525C',
+    participant: undefined
+  },
+  messageTimestamp: 1718925449,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'En Gestión vial, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'En Gestión vial, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'BAE56DA650A16F05',
+    participant: undefined
+  },
+  messageTimestamp: 1718925449,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¿Qué servicio deseas realizar?\n' +
+        '*-Multas y comparendos*\n' +
+        '*-Cambio de estado de licencia*'
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '¿Qué servicio deseas realizar?\n' +
+    '*-Multas y comparendos*\n' +
+    '*-Cambio de estado de licencia*',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15063065493@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2AE5A995FBFA2B3F45',
+    participant: undefined
+  },
+  messageTimestamp: 1718925492,
+  pushName: '✖️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '15063065493'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  keyword: 'key_6235cb8a-e373-4813-9da3-c747403ca5ff',
+  answer: '👋Hola , gracias por comunicarte con Transita + ✨\n' +
+    '¡Nos alegra mucho tenerte aquí! 😊\n' +
+    'Soy Leidy Puentes, tu asistente virtual. Por favor indícame qué es lo que deseas hacer , marca el número de la opción que desear consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1b083080f36aab2893818a29f7e48995'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9497d62a-8711-4eff-9c26-a386383c55bb',
+  keyword: 'ans_bddf1f57-31a7-4268-8d99-0fccf6ab0325',
+  answer: ' *Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    ' *-Movilidad y transito*🚗🚧\n' +
+    ' *-Reclamos O Soporte*📥',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '2fb7d6cd4fb80abe0a8729afce417a09'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '5705051AE60F436030F9606B52723693',
+    participant: undefined
+  },
+  messageTimestamp: 1718925509,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuénteme',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Cuénteme',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15063065493@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE251307D93FE273441',
+    participant: undefined
+  },
+  messageTimestamp: 1718925529,
+  pushName: '✖️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Movilidad',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Movilidad',
+  from: '15063065493'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d179730b-1d56-41fd-896f-fbd5df867bdf',
+  keyword: 'key_bd074989-3793-46ae-8d43-7622e096170c',
+  answer: 'En Transita +, nos especializamos en simplificar tus trámites de tránsito. Nuestro equipo de expertos está dedicado a eliminar tus comparendos y resolver cualquier problema relacionado con tu historial de conducción. Con un enfoque rápido, confiable y transparente, estamos aquí para brindarte la tranquilidad y el apoyo que necesitas en el camino. ¡Déjanos ocuparnos de los detalles para que puedas seguir adelante sin preocupaciones!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e0201dc39063e0fa43bbf4377d77b018'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9925ca43-29fe-4ff8-9a09-368f2efe4ec1',
+  keyword: 'ans_d179730b-1d56-41fd-896f-fbd5df867bdf',
+  answer: '¿Qué servicio deseas realizar?\n' +
+    '*Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    '*-Multas y comparendos*\n' +
+    '*-Cambio de estado de licencia*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e48b039efdbf7cabef745e6b13d48230'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15063065493@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF8EBC06FA174961403',
+    participant: undefined
+  },
+  messageTimestamp: 1718925545,
+  pushName: '✖️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Multas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Multas',
+  from: '15063065493'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_03ce69c5-4b56-47a5-8449-546740cc32d0',
+  keyword: 'key_f2e23967-5ae8-4a0e-8d5b-fb7d311ca9b7',
+  answer: 'En nuestro servicio de Multas, Comparendos y Acuerdos de Pago, nos encargamos de resolver tus problemas de tránsito de manera rápida y efectiva. Nos especializamos en la gestión y eliminación de multas, comparendos y acuerdos de pago. Con un equipo experto y dedicado, te ofrecemos soluciones personalizadas para recuperar tu historial de conducción y garantizar tu tranquilidad en la carretera.\n' +
+    'La limpieza del estado de cuenta tiene un tiempo aproximado de 1 día hábil aproximadamente o menos dependiendo de la complejidad del registro de la infracción.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebfee771cf951135c34893e012ec373e'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e4619332-f246-4f9c-a47b-11eddadb0e3b',
+  keyword: 'ans_03ce69c5-4b56-47a5-8449-546740cc32d0',
+  answer: '¿Deseas realizar el servicio?\n' +
+    '*Escribe la opción en palabra como se muestra, “no números”.*\n' +
+    '*-Si, deseo iniciar*\n' +
+    '*-No gracias*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ac5016b5ca025ce4865c3f1ad2ff272'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '15063065493@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF38EC537DB5E5DCD6B',
+    participant: undefined
+  },
+  messageTimestamp: 1718925563,
+  pushName: '✖️',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '15063065493'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '634AE85E20231A57AF5E40EC9E5DDF5A',
+    participant: undefined
+  },
+  messageTimestamp: 1718925565,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Un momento...',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Un momento...',
+  from: '573228475192'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_addb95b7-25e4-4cbe-8600-ebcd4e2fc73c',
+  keyword: 'key_8815564e-1dde-4559-bc90-345620c5a34d',
+  answer: '⚠️ IMPORTANTE, LEER CON ATENCIÓN ⚠️\n' +
+    '1.\tNo somos abogados como las publicaciones comunes.\n' +
+    '2.\tHacemos los tramites directamente en tránsito y transporte.\n' +
+    '3.\tNuestro trabajo es definitivo y no se vuelven a subir en un tiempo como otros.\n' +
+    '4.\tLos resultados se pueden validar en un día hábil o menos.\n' +
+    '5.\tRevisar su estado de cuenta, o validar su licencia tiene un costo de 25 mil pesos. Esto se hace con el fin de revisar y empezar la gestión de su trámite.\n' +
+    'Si aceptas los términos anteriores deja el número de cedula:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '75d3af33f3db4d2f062c14c19f6294a2'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '6CD3B45469C8B393019BCAE9E5F5EE6E',
+    participant: undefined
+  },
+  messageTimestamp: 1718925578,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Usted usted utiliza su número para camellar?!',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Usted usted utiliza su número para camellar?!',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '05E94B782747BB18B8225FB0FFADEBA9',
+    participant: undefined
+  },
+  messageTimestamp: 1718925596,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aaaaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Aaaaaa',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '1BBE0BAA4A56D5007136AE3ADC431C30',
+    participant: undefined
+  },
+  messageTimestamp: 1718925601,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: 'Usted es mucho perroooo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: 'Usted es mucho perroooo',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: '343465506A87C85FDAE05D915A335DF2',
+    participant: undefined
+  },
+  messageTimestamp: 1718925605,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: '😂😂😂😂😂',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '😂😂😂😂😂',
+  from: '573228475192'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573228475192@s.whatsapp.net',
+    fromMe: false,
+    id: 'B06529C87CE70D97D0D6F27ADEE9DA9E',
+    participant: undefined
+  },
+  messageTimestamp: 1718925607,
+  pushName: 'Gestión Vial',
+  broadcast: false,
+  message: Message {
+    conversation: '😂😂😂😂😂',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Gestión Vial',
+  body: '😂😂😂😂😂',
+  from: '573228475192'
+}
